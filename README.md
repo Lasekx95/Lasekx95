@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dustin DEmers</h1>
+<h1 align="center">Hi 👋, I'm Dustin Demers</h1>
 <h3 align="center">An aspiring game developer from Canada</h3>
 
 - 🔭 I’m currently working on **100 days of code challenge**
